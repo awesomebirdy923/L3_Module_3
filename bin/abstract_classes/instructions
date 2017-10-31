@@ -1,7 +1,7 @@
-Take a look at the given code along with the JUinit test. The abstract class city has been made for you.
+Take a look at the given code along with the JUinit test. The abstract class City has been made for you.
 Your job is to make four (4) subclasses of the abstract City class. The classes will be SanDiego, Boston, LosAngeles, and Atlanta. 
 You have to write the getAnnualTaxes method for each city. In this utopia, every citizen only has to pay the city one dollar per year in taxes. 
-Therefor, the annual taxes can be calculated by multiplying the population by the growthRate. However, each city gets a unique bonus based
+Therefore, the annual taxes can be calculated by multiplying the population by the growthRate. However, each city gets a unique bonus based
 on the information below.
 
 *San Diego gets a flat bonus of $1,000,000 for being the best city ever.
